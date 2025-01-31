@@ -17,7 +17,7 @@ do
 done
 
 conda deactivate
-conda activate bgminimap2
+conda activate minimap2
  minimap2 \
    -ax map-ont \
    --secondary=no \
